@@ -1,6 +1,6 @@
 {
   "name": "render",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Opinionated React Template",
   "main": "src/index.ts",
   "scripts": {
